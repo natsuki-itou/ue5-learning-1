@@ -34,5 +34,5 @@
 # My Setting
 *.uasset
 *.Umap
-!/Learning1/Content/BluePrints
-!/Learning1/Content/Maps
+!/Content/BluePrints
+!/Content/Maps
