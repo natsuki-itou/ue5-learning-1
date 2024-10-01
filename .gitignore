@@ -34,5 +34,5 @@
 # My Setting
 *.uasset
 *.umap
-!Content/BluePrints/*
+!Content/BluePrints/**
 !Content/Maps/*
