@@ -33,6 +33,6 @@
 
 # My Setting
 *.uasset
-*.Umap
-!/Content/BluePrints
-!/Content/Maps
+*.umap
+!Content/BluePrints/*
+!Content/Maps/*
