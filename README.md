@@ -29,7 +29,6 @@ C++自体の知識も乏しいため、そちらも併せて学習する。
 - UPROPERTY
 - UUserWidget
 #### BluePrint
-<<<<<<< HEAD
 -
 ### その他
 - アロー演算子
@@ -46,9 +45,3 @@ C++自体の知識も乏しいため、そちらも併せて学習する。
 - UnrealEngine5の教科書 [ゲーム開発入門編,第一巻]
   https://zenn.dev/daichi_gamedev/books/unreal-engine-tutorial
 - ChatGPT
-=======
-## 不明点や今後調査が必要な点
-- デリゲート
-- UStaticMeshComponent::AddForceとUCharacterMovementComponent::AddForceの違い
-- UPawnMovementComponentについて
->>>>>>> 1fa3f9ab3cc9645b33e3be760f86f0cda250bee9
