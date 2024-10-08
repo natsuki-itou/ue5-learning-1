@@ -22,5 +22,7 @@ C++自体の知識も乏しいため、そちらも併せて学習する。
 - UFUNCTION
 - UPROPERTY
 #### BluePrint
-## 不明点
+## 不明点や今後調査が必要な点
 - デリゲート
+- UStaticMeshComponent::AddForceとUCharacterMovementComponent::AddForceの違い
+- UPawnMovementComponentについて
